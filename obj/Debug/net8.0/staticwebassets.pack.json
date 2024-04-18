@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Alexa\\Documents\\CODE\\PORTFOLIO\\LRC file gen\\LRC_Generator\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\lrc_generator.bundle.scp.css",
+      "PackagePath": "staticwebassets\\lrc_generator.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Alexa\\Documents\\CODE\\PORTFOLIO\\LRC file gen\\LRC_Generator\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\Alexa\\Documents\\CODE\\PORTFOLIO\\LRC file gen\\LRC_Generator\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Alexa\\Documents\\CODE\\PORTFOLIO\\LRC file gen\\LRC_Generator\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Alexa\\Documents\\CODE\\PORTFOLIO\\LRC file gen\\LRC_Generator\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.lrc_generator.props",
+      "PackagePath": "build\\lrc_generator.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.lrc_generator.props",
+      "PackagePath": "buildMultiTargeting\\lrc_generator.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.lrc_generator.props",
+      "PackagePath": "buildTransitive\\lrc_generator.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.lrc_generator.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
